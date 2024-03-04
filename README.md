@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [24.04](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/Main) |
+| [Xubuntu 24.04](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/Main) |
 
 
 
