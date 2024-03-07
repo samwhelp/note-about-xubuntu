@@ -112,6 +112,9 @@ gsettings set org.gnome.desktop.wm.preferences theme 'Numix'
 
 ## 設定「xfce-session」採用「compiz」
 
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-compiz/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |
 
 
 ## 相關議題
