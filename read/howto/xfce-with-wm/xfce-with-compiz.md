@@ -30,8 +30,9 @@ grand_parent: 如何
 
 * [安裝「Compiz」](#安裝compiz)
 * [安裝「Compiz」設定檔](#安裝compiz設定檔)
-* [設定「gtk-window-decorator」](#設定gtk-window-decorator)
 * [設定「xfce-session」採用「compiz」](#設定xfce-session採用compiz)
+* [設定「gtk-window-decorator」](#設定gtk-window-decorator)
+
 
 
 ## 安裝「Compiz」
@@ -85,6 +86,13 @@ curl -fLo ~/.config/compiz-1/compizconfig/config --create-dirs https://raw.githu
 ```
 
 
+## 設定「xfce-session」採用「compiz」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-compiz/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |
+
+
 ## 設定「gtk-window-decorator」
 
 關於「compiz」預設採用的是「gtk-window-decorator」，
@@ -108,13 +116,6 @@ sudo apt-get install numix-gtk-theme
 ``` sh
 gsettings set org.gnome.desktop.wm.preferences theme 'Numix'
 ```
-
-
-## 設定「xfce-session」採用「compiz」
-
-| 設定檔路徑 |
-| --- |
-| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-compiz/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |
 
 
 ## 相關議題

@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Openbox」](#安裝openbox)
 * [關於「Openbox」設定檔](#關於openbox設定檔)
+* [設定「xfce-session」採用「openbox」](#設定xfce-session採用openbox)
 
 
 ## 安裝「Openbox」
@@ -46,3 +47,10 @@ sudo apt-get install openbox
 | 關於「Openbox」設定檔路徑 |
 | --- |
 | [~/.config/openbox/rc.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-openbox/Main/asset/overlay/etc/skel/.config/openbox/rc.xml) |
+
+
+## 設定「xfce-session」採用「openbox」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-openbox/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |

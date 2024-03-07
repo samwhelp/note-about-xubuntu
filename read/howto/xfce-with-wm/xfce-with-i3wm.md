@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「I3wm」](#安裝i3wm)
 * [關於「I3wm」設定檔](#關於i3wm設定檔)
+* [設定「xfce-session」採用「i3」](#設定xfce-session採用i3)
 
 
 ## 安裝「I3wm」
@@ -46,3 +47,10 @@ sudo apt-get install i3-wm
 | 關於「I3wm」設定檔路徑 |
 | --- |
 | [~/.config/i3/config](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-i3wm/Main/asset/overlay/etc/skel/.config/i3/config) |
+
+
+## 設定「xfce-session」採用「i3」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-i3wm/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |

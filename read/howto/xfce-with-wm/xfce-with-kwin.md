@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Kwin」](#安裝kwin)
 * [關於「Kwin」設定檔](#關於kwin設定檔)
+* [設定「xfce-session」採用「kwin」](#設定xfce-session採用kwin)
 * [設定「Window Decoration」](#設定window-decoration)
 * [設定「按鍵綁定」](#設定按鍵綁定)
 * [關於「kwin-addons」](#關於kwin-addons)
@@ -78,6 +79,13 @@ sudo apt-get install \
 | [~/.config/kaccessrc](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-kwin/Main/asset/overlay/etc/skel/.config/kaccessrc) |
 | [~/.config/krunnerrc](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-kwin/Main/asset/overlay/etc/skel/.config/krunnerrc) |
 | [~/.config/ktimezonedrc](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-kwin/Main/asset/overlay/etc/skel/.config/ktimezonedrc) |
+
+
+## 設定「xfce-session」採用「kwin」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-kwin/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |
 
 
 ## 設定「Window Decoration」

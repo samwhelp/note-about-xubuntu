@@ -30,6 +30,7 @@ grand_parent: 如何
 
 * [安裝「Bspwm」](#安裝bspwm)
 * [關於「Bspwm」設定檔](#關於bspwm設定檔)
+* [設定「xfce-session」採用「bspwm」](#設定xfce-session採用bspwm)
 
 
 ## 安裝「Bspwm」
@@ -47,3 +48,10 @@ sudo apt-get install bspwm sxhkd
 | --- |
 | [~/.config/bspwm/bspwmrc](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/bspwmrc) |
 | [~/.config/bspwm/sxhkdrc](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-bspwm/Main/asset/overlay/etc/skel/.config/bspwm/sxhkdrc) |
+
+
+## 設定「xfce-session」採用「bspwm」
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/alternative-config/xfce-with-bspwm/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml#L15) |
