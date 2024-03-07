@@ -53,6 +53,8 @@
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
+| [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 | [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz/) | [GitHub](https://github.com/samwhelp/note-about-compiz) |
