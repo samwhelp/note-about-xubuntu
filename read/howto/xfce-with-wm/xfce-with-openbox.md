@@ -1,6 +1,6 @@
 ---
 title: 設定「Xfce」搭配「Openbox」
-nav_order: 7051
+nav_order: 7011
 has_children: false
 parent: 設定「Xfce」搭配其他的「視窗管理器」
 grand_parent: 如何
