@@ -1,34 +1,26 @@
 ---
-title: Xfce
-nav_order: 3010
-has_children: false
-parent: 桌面環境
+title: 設定「Xfce」搭配其他的「視窗管理器」
+nav_order: 7030
+has_children: true
+parent: 如何
 ---
 
 
-# Xfce
+# 設定「Xfce」搭配其他的「視窗管理器」
 
 
-## 主題
+## 前提
 
-* [微調腳本](#微調腳本)
+目前「Xubuntu」是採用「xfce」這個「桌面環境」，
 
-
-
-## 微調腳本
-
-| [Xubuntu](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main) |
-| --- |
-| [xfce-config](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/Main) |
+搭配「xfwm4」這個「視窗管理器」。
 
 
 
 
-## 相關議題
+## 搭配
 
-### 設定「Xfce」搭配其他的「視窗管理器」
-
-| [如何](https://samwhelp.github.io/note-about-xubuntu/read/howto.html) |
+| 搭配 |
 | --- |
 | [設定「Xfce」搭配「Compiz」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-compiz.html) |
 | [設定「Xfce」搭配「Kwin」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-kwin.html) |

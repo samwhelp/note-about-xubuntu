@@ -1,34 +1,25 @@
 ---
-title: Xfce
-nav_order: 3010
-has_children: false
-parent: 桌面環境
+title: 如何
+nav_order: 7000
+has_children: true
 ---
 
 
-# Xfce
+# 如何
 
 
-## 主題
+## 滑鼠按鍵綁定
 
-* [微調腳本](#微調腳本)
-
-
-
-## 微調腳本
-
-| [Xubuntu](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main) |
-| --- |
-| [xfce-config](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/Main) |
+| 滑鼠按鍵綁定 |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-xubuntu/read/howto/config-mouse-button-modifier.html) |
 
 
 
 
-## 相關議題
+## 設定「Xfce」搭配其他的「視窗管理器」
 
-### 設定「Xfce」搭配其他的「視窗管理器」
-
-| [如何](https://samwhelp.github.io/note-about-xubuntu/read/howto.html) |
+| [設定「Xfce」搭配其他的「視窗管理器」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm.html) |
 | --- |
 | [設定「Xfce」搭配「Compiz」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-compiz.html) |
 | [設定「Xfce」搭配「Kwin」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-kwin.html) |
