@@ -45,4 +45,4 @@ sudo apt-get install xfce4-terminal
 
 | Config File Path |
 | ---------------- |
-| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml) |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml) |
