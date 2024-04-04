@@ -45,4 +45,4 @@ sudo apt-get install mousepad
 
 | Config File Path |
 | ---------------- |
-| [/usr/share/glib-2.0/schemas/50_mousepad.gschema.override](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/usr/share/glib-2.0/schemas/50_mousepad.gschema.override) |
+| [/usr/share/glib-2.0/schemas/50_mousepad.gschema.override](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/tool-config/part/mousepad/asset/overlay/usr/share/glib-2.0/schemas/50_mousepad.gschema.override) |
