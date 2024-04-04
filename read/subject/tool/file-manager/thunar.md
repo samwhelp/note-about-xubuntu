@@ -45,6 +45,6 @@ sudo apt-get install thunar
 
 | Config File Path|
 | --- |
-| [~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml) |
-| [~/.config/Thunar/uca.xml](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/etc/skel/.config/Thunar/uca.xml) |
-| [~/.config/Thunar/accels.scm](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal/asset/overlay/etc/skel/.config/Thunar/accels.scm) |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/tool-config/part/thunar/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml) |
+| [~/.config/Thunar/uca.xml](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/tool-config/part/thunar/asset/overlay/etc/skel/.config/Thunar/uca.xml) |
+| [~/.config/Thunar/accels.scm](https://github.com/samwhelp/xubuntu-adjustment/blob/main/prototype/main/tool-config/part/thunar/asset/overlay/etc/skel/.config/Thunar/accels.scm) |
