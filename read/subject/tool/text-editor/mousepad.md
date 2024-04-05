@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [mousepad](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/tool/mousepad) |
+| [mousepad](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 
 
 ## Ubuntu Package Search
