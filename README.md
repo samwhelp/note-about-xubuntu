@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [輸入法](#輸入法)
 * [工具](#工具)
 * [如何](#如何)
@@ -26,6 +27,16 @@
 | 微調腳本 |
 | -------- |
 | [Xubuntu 24.04](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| -------- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-xubuntu/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-xubuntu/read/config/mousebind.html) |
 
 
 
