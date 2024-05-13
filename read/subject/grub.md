@@ -30,7 +30,7 @@ has_children: false
 
 | 完整腳本 |
 | --- |
-| [grub-theme-glass-remix](https://github.com/samwhelp/lubuntu-adjustment/tree/main/prototype/main/grub-config/grub-theme/grub-theme-glass-remix) |
+| [grub-theme-glass-remix](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/grub-config/grub-theme/grub-theme-glass-remix) |
 
 
 
