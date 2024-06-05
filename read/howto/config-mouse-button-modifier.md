@@ -1,12 +1,12 @@
 ---
-title: 設定 Mouse Button Modifier
+title: 設定「Mouse Button Modifier」
 nav_order: 7021
 has_children: false
 parent: 如何
 ---
 
 
-# 設定 Mouse Button Modifier
+# 設定「Mouse Button Modifier」
 
 
 ## 相關設定指令
@@ -20,7 +20,7 @@ parent: 如何
 xfconf-query --channel xfwm4 --property "/general/easy_click" --set "Super" --type "string" --create
 ```
 
-執行上面的指令後，就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-xfce/read/config/mousebind.html#視窗內容區塊)，
+執行上面的指令後，就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-xubuntu/read/config/mousebind.html#視窗內容區塊)，
 
 | 滑鼠按鍵組合                |  功能                   |
 | --------------------------- | ----------------------- |
@@ -73,7 +73,7 @@ xfconf-query --channel xfwm4 --property "/general/easy_click" --set "Alt" --type
 
 | 相關議題 |
 | ------- |
-| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-xfce/read/config/mousebind.html#視窗內容區塊) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-xubuntu/read/config/mousebind.html#視窗內容區塊) |
 
 
 ## 相關應用
