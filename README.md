@@ -9,6 +9,9 @@
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-xubuntu/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
