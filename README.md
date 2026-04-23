@@ -31,7 +31,8 @@
 
 | 微調腳本 |
 | -------- |
-| [Xubuntu 24.04](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main) |
+| [Xfce Config](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
