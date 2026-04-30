@@ -31,8 +31,14 @@
 
 | 微調腳本 |
 | -------- |
-| [Xfce Config](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [Xubuntu Xfce Config](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+| Style Management |
+| ---------------- |
+| [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
